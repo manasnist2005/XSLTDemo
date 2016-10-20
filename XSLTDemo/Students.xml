@@ -23,7 +23,7 @@
     <marks>90</marks>    
   </student>
   <student rollno="693">
-    <firstname specialId="4">Hemlata</firstname>
+    <firstname specialId="4"></firstname>
     <lastname>Sahu</lastname>
     <nickname>Hema</nickname>
     <gender>Female</gender>
