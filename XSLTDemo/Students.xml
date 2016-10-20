@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Students.xslt"?>
+<class>
+  <student rollno="393">
+    <firstname specialId="1">Dinkar</firstname>
+    <lastname>Kad</lastname>
+    <nickname>Dinkar</nickname>
+    <gender>Male</gender>
+    <marks>85</marks>
+   </student>
+  <student rollno="493">
+    <firstname specialId="2">Vaneeta</firstname>
+    <lastname>Gupta</lastname>
+    <nickname>Vinni</nickname>
+    <gender>Female</gender>
+    <marks>95</marks>   
+  </student>
+  <student rollno="593">
+    <firstname specialId="3">Jasvir</firstname>
+    <lastname>Singh</lastname>
+    <nickname>Jazz</nickname>
+    <gender>Male</gender>
+    <marks>90</marks>    
+  </student>
+  <student rollno="693">
+    <firstname specialId="4">Hemlata</firstname>
+    <lastname>Sahu</lastname>
+    <nickname>Hema</nickname>
+    <gender>Female</gender>
+    <marks>68</marks>
+  </student>
+  <student rollno="793">
+    <firstname specialId="5">Tanushree</firstname>
+    <lastname>Dutta</lastname>
+    <nickname>Tanu</nickname>
+    <gender>Female</gender>
+    <marks>72</marks>
+  </student>
+  <student rollno="893">
+    <firstname specialId="6">Manoj</firstname>
+    <lastname>Sharma</lastname>
+    <nickname>Manu</nickname>
+    <gender>Male</gender>
+    <marks>75</marks>
+  </student>
+</class>
